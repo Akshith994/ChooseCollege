@@ -1,6 +1,6 @@
 //import { getJsonCollegeList } from "/requestHandling.js";
-import { getDataWithBranch, getDataWithoutBranch } from "https://cdn.jsdelivr.net/gh/suchith989/testing/sortCollege.js";
-import {renderTable} from "https://cdn.jsdelivr.net/gh/suchith989/testing/displayData.js";
+import { getDataWithBranch, getDataWithoutBranch } from "https://cdn.jsdelivr.net/gh/Akshith994/ChooseCollege/sortCollege.js";
+import {renderTable} from "https://cdn.jsdelivr.net/gh/Akshith994/ChooseCollege/displayData.js";
 
 let submitBtn = document.getElementsByClassName("btn1");
 
